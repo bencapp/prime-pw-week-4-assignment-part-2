@@ -1,4 +1,15 @@
 .info {
-  background-color: blue;
-  color: yellow;
+  border: 2px solid black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ede6f2;
+  color: #383239;
+}
+
+#name {
+  background-color: #9e643c;
+}
+
+#travel-description {
+  background-color: #9e643c;
 }
